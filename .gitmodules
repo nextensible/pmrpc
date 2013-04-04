@@ -1,0 +1,3 @@
+[submodule "www/resources/current"]
+	path = www/resources/current
+	url = git://github.com/izuzak/pmrpc.git
